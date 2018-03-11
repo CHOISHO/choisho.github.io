@@ -5,14 +5,19 @@ date: 2018-03-12 01:31:44 GMT+0900
 categories: JavaScript
 ---
 
+### this in 함수
 this.name.length 에서 this 는 원하는 곳에 연결되지 않을 것이다.
 
-화살표 함수를 쓰거나 ,  const self = this 로 선언 하는 방법도 있당
+화살표 함수를 쓰거나 ,  const self = this 로 선언 하는 방법도 있다
+
 ---
+
 ###es6 확산 연산자 : ...
+
 ---
 ###this, call, bind 
 
+---
 
 ###-선언(declaration) 과 정의(definition)
 
@@ -27,15 +32,20 @@ let x;  //declaration
 let x = "sangho" //definition
 
 ---
+
 gulp watch 실패
 
+---
 
 ###?변수 숨기기 
+
 ---
 
 ###?클로저 : 함수가 특정스코프에 접근할 수 있도록 의도적으로 그 스코프에서 정의하는 경우 , 스코프를 함수주변으로 좁히는 것
 
-⁭###IIFE 즉시호출 함수
+---
+⁭####IIFE 즉시호출 함수
+
 ---
 findIndex ;
 
