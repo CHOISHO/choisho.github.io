@@ -8,17 +8,13 @@ categories: JavaScript
 this.name.length 에서 this 는 원하는 곳에 연결되지 않을 것이다.
 
 화살표 함수를 쓰거나 ,  const self = this 로 선언 하는 방법도 있당
-
-es6 확산 연산자 : ...
-
-this, call, bind 
-
-
-브랜드컬러를 내세우지만  ,  기능에 근거하여 적용ㅇ할 필요가 있다
+---
+###es6 확산 연산자 : ...
+---
+###this, call, bind 
 
 
-
--선언(declaration) 과 정의(definition)
+###-선언(declaration) 과 정의(definition)
 
 선언은 변수를 선언한다
 
@@ -30,25 +26,26 @@ let x;  //declaration
 
 let x = "sangho" //definition
 
-
+---
 gulp watch 실패
 
 
-?변수 숨기기 
+###?변수 숨기기 
+---
 
-?클로저 : 함수가 특정스코프에 접근할 수 있도록 의도적으로 그 스코프에서 정의하는 경우 , 스코프를 함수주변으로 좁히는 것?
+###?클로저 : 함수가 특정스코프에 접근할 수 있도록 의도적으로 그 스코프에서 정의하는 경우 , 스코프를 함수주변으로 좁히는 것
 
-⁭IIFE 즉시호출 함수
-
+⁭###IIFE 즉시호출 함수
+---
 findIndex ;
 
 some : 조건에 맞는 인덱스 true /false 
 
 every : 모든 조건 true / false 
 
+---
 
-
-map 의 신세계 
+###map 의 신세계 
 
 검색해서 사본으로 만들수 있고
 
