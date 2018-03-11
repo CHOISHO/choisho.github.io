@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Directives!"
-date: 2018-01-12 12:08:00 +0900
+date: 2018-01-12 12:08:00 +0900 
 categories: Vue
 ---
 

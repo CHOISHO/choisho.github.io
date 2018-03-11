@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "LearningJS(~08)"
+date: 2018-03-12 01:31:44 GMT+0900 
+categories: JavaScript
+---
+
+#Directives
+
+
+---
